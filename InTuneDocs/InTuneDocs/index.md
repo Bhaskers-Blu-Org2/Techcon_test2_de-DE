@@ -1,1 +1,0 @@
-# Testen der Indexdatei für Open Publishing
